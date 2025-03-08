@@ -1,4 +1,4 @@
-# Arch Linux + Hyprland Installation Guide (Dualboot)
+# Arch Linux + KDE Plasma Installation Guide (Dualboot)
 All credits to [edudscrc](https://github.com/edudscrc)
 
 Learn how to install Arch Linux with Hyprland. Minimal installation.
