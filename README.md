@@ -204,7 +204,14 @@ Learn how to install Arch Linux with Hyprland. Minimal installation.
   $ yay -S qimgv-git
 </pre>
 
-### 19. Reboot:
+### Reboot:
 <pre>
   $ reboot
+</pre>
+
+### Install additional softwares:
+<pre>
+  $ sudo pacman -S steam discord
+  $ sudo pacman -S fastfetch qbittorrent
+  $ yay -S spotify visual-studio-code-bin
 </pre>
