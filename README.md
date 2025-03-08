@@ -194,13 +194,14 @@ Learn how to install Arch Linux with Hyprland. Minimal installation.
   $ systemctl enable sddm.service
 </pre>
 
-Install yay and a fast image viewer:
+### Install yay and a fast image viewer:
 <pre>
   $ git clone https://aur.archlinux.org/yay.git
   $ cd yay
   $ makepkg -si
   $ cd ..
   $ rm -r yay
+  $ yay -S qimgv-git
 </pre>
 
 ### 19. Reboot:
